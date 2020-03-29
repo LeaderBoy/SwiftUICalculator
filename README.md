@@ -1,3 +1,3 @@
 # SwiftUICalculator
 
-A description of this package.
+Calculator for SwiftUI

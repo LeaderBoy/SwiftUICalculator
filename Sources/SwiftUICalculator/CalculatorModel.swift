@@ -13,6 +13,8 @@ public class CalculatorModel: ObservableObject {
 
     @Published public var calculator : Calculator = .input("0")
     
+    public init() {}
+    
     public var history : String {
         return calculator.history
     }
